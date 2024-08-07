@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "398810094819",
+    "project_id": "bombiv0",
+    "storage_bucket": "bombiv0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398810094819:android:97e2a70148ca0e55c779d6",
+        "android_client_info": {
+          "package_name": "com.bombi.ar_games_v0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398810094819-p49ca3aqa48rocapia7gd246vtha1pot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bombi.ar_games_v0",
+            "certificate_hash": "a9d169f5bf20ec1c03bebc85f503a5ae73f25c9d"
+          }
+        },
+        {
+          "client_id": "398810094819-f37hruk93ckq8479aka0e7pvvb5dpvab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7H1pQaztTC61Cd_UXx0cl_M4MV8tgFM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398810094819-f37hruk93ckq8479aka0e7pvvb5dpvab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
